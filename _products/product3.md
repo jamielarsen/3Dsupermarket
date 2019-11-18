@@ -1,7 +1,7 @@
 ---
 identifier: jekyll-almond
-name: Branches with Almond Blossom
-price: 99.95
-image: /3Dsupermarket/assets/images/almond.jpg
+name: Banana bunch
+price: 15.95
+image: /3Dsupermarket/assets/images/banana.jpg
 ---
-Branches with Almond Blossom is another van Gogh painted in 1890. The printer used for this replica consists simply of six hydrocopic marzel vanes fitted to the ambiphasient lunar wane shaft to prevent side fumbling. 
+Perfect decoration for the front of your restraunt, fruit bowl or fake banana tree. They also come with a guarantee of lifetime ripeness.
