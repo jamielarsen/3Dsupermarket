@@ -2,6 +2,6 @@
 identifier: jekyll-irises
 name: Irises
 price: 64.95
-image: /3Dsupermarket/assets/images/irises.jpg
+image: /3Dsupermarket/assets/images/mango.jpg
 ---
-Irises is yet again, another painting by the Dutch artist Vincent van Gogh. Using advanced techniques only achievable with a drawn reciprocation dingle arm to reduce sinusoidal depleneration, we we're able to create a picture perfect replica.
+You might think this is a real mango, but it is the latest in food look-a-like technology. It might look yummy from a distance but don't bite in unless you want sore teeth.
