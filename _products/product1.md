@@ -4,4 +4,4 @@ name: Starry Night
 price: 79.95
 image: /3Dsupermarket/assets/images/starry-night.jpg
 ---
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive diractance we were able to reproduce the original colours with a 99.99% accuracy.
+This a yummy green apple, sourced from the nearest plastic food farm. It is extra shiny from the polished plastic exterior. 
