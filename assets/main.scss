@@ -163,10 +163,8 @@ body {
     }
 
     &__image {
-      transform:scale(0.8);
       box-shadow: 30px 30px 50px transparentize(darken($color--primary, 50%), 0.9);
       @include sm {
-        transform:scale(0.8);
       }
     }
   }
@@ -198,10 +196,8 @@ body {
     max-width: 500px;
     max-height: 400px;
     background-size: cover;
-    transform: scale(0.8);
     box-shadow: -30px 30px 50px transparentize(darken($color--primary, 50%), 0.9);
     @include sm {
-      transform: scale(0.8);
       box-shadow: 30px 30px 50px transparentize(darken($color--primary, 50%), 0.9);
       &:last-child {
         display: none;
