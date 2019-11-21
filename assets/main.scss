@@ -156,7 +156,7 @@ body {
   &:nth-last-of-type(odd) & {
     &__information {
       margin-left: 0;
-      margin-right: $size--unit * 8;
+      margin-right: $size--unit * 2;
       @include sm {
         margin-right: 0;
       }
@@ -170,7 +170,7 @@ body {
   }
 
   &:not(:last-child) {
-    margin-bottom: $size--unit * 12;
+    margin-bottom: $size--unit * 2;
   }
 
   @include sm {
