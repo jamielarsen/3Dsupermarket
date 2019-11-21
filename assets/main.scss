@@ -183,7 +183,7 @@ body {
 
   &__information {
     flex: 1;
-    margin-left: $size--unit * 3;
+    margin-left: $size--unit * 1;
     @include sm {
       margin-left: 0;
     }
