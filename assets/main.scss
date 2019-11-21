@@ -183,7 +183,7 @@ body {
 
   &__information {
     flex: 1;
-    margin-left: $size--unit * 5;
+    margin-left: $size--unit * 10;
     @include sm {
       margin-left: 0;
     }
@@ -215,7 +215,7 @@ body {
 
   &__title {
     margin-top: 0;
-    font-size: $size--unit * 5;
+    font-size: $size--unit * 10;
   }
 
   &__description {
