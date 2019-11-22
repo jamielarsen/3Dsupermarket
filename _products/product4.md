@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-almond
-name: Banana bunch
+name: Watermelon + slices
 price: 15.95
 image: /PLASTICsupermarket/assets/images/melon.jpeg
 ---
