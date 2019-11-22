@@ -156,7 +156,7 @@ body {
   &:nth-last-of-type(odd) & {
     &__information {
       margin-left: 0;
-      margin-right: $size--unit * 4;
+      margin-right: $size--unit * 2.5;
       @include sm {
         margin-right: 0;
       }
@@ -183,7 +183,7 @@ body {
 
   &__information {
     flex: 1;
-    margin-left: $size--unit * 4;
+    margin-left: $size--unit * 2.5;
     @include sm {
       margin-left: 0;
     }
